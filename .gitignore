@@ -1,0 +1,5 @@
+**/*.cpython*
+Config/**
+/Fliggy/Vision/.idea
+/Fliggy/Vision/mongodb_config.py
+/Fliggy/Vision/fliggy_log.txt

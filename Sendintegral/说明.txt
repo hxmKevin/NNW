@@ -1,0 +1,18 @@
+author: 张滨彬
+
+2019.8.14
+	该文件夹作暂存作用, 不随项目一起运行
+	version1.21 上传
+
+2019.9.18
+	version 1.3	http://git.iflying.com/Business/ERP/erp/issues/269
+
+2019.9.25
+	version 1.31	
+		下单时间10.1之后的按1.3版本发积分,之前按1.2版本发积分
+		修复上海时区6分钟误差
+
+2019.9.30
+	version 1.32	
+		 当下单时间大于10.1, 仅1.3版本中的邀请人制度生效. 否则按旧规则进行发放
+		http://git.iflying.com/Business/ERP/erp/issues/283
